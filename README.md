@@ -1,1 +1,1 @@
-# wp-resolusi
+# wpg-resolusi
